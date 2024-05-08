@@ -24,3 +24,4 @@ print(PrimeiroDicionario)
 # Lista[indice] = Valor 
 # dicionario[chave] = Valor 
 
+# teste
