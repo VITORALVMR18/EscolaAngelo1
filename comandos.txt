@@ -11,4 +11,3 @@ Ok - Professor Parisotto
 8 No terminal  digite git config user.email digite seu email
 9 tecle enter
 
-..
