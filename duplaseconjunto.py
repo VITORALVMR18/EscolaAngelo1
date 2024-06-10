@@ -11,3 +11,4 @@ print(lista2)
 lista[0] = "avenida"
 tupla3 = tuple(lista2)
 print(tupla3)
+Mod
